@@ -1,9 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
-.title {
-  font-family: 'Anton', sans-serif;
 }
 /*
 	
@@ -3317,11 +3314,7 @@ input, select, textarea {
 				padding: 0;
 			}
 
-		h2, a {
-  font-family: 'Anton', sans-serif;
-}
-
-	}
+		}
 
 /* Center the embedded Google Form on desktop */
 .form-container {
