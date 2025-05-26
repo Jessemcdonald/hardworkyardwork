@@ -3306,19 +3306,6 @@ input, select, textarea {
 				width: 100%;
 			}
 
-
-.form-container {
-  display: flex;
-  justify-content: center;
-  padding: 1em;
-}
-
-.form-container iframe {
-  max-width: 100%;
-  width: 450px;
-}
-
-
 		
 
 		/* Button */
@@ -3335,3 +3322,16 @@ input, select, textarea {
 }
 
 	}
+
+/* Center the embedded Google Form on desktop */
+.form-container {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+
+.form-container iframe {
+  max-width: 100%;
+  width: 450px;
+}
+
