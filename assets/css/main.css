@@ -3315,4 +3315,8 @@ input, select, textarea {
 				padding: 0;
 			}
 
+		h2, a {
+  font-family: 'Anton', sans-serif;
+}
+
 	}
