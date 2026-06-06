@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<!--
+	Hardwork Yardwork WPG - Thank You Page
+-->
+<html>
+	<head>
+		<link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+		<link rel="shortcut icon" href="/images/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="HWYW" />
+		<link rel="manifest" href="/images/site.webmanifest" />
+		<link rel="icon" type="image/png" href="images/favicon.png">
+		<title>Thank You - Hardwork Yardwork WPG</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header Sidebar -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="index.html">Hardwork Yardwork</a></h1>
+					<p>Landscaping and Property Management</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html#one">Welcome</a></li>
+						<li><a href="index.html#two">Services</a></li>
+						<li><a href="index.html#three">About Us</a></li>
+						<li><a href="index.html#four">Contact Us</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://www.facebook.com/people/Hardwork-Yardwork-WPG/61576184565696/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/hardworkyardworkwpg?igsh=bDNIMzZieXI3cGh0" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="tel:2042609000" class="icon solid fa-phone"><span class="label">Phone</span></a></li>
+						<li><a href="mailto:letswork@hardworkyardwork.ca" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main Content Area -->
+					<div id="main">
+
+						<!-- Thank You Section -->
+							<section id="thank-you-message">
+								<div class="container">
+									<header class="major" style="margin-top: 3em;">
+										<h2 style="color: #2e7d32;"><span class="icon solid fa-check-circle" style="margin-right: 0.5em;"></span>Message Received!</h2>
+										<p>Thank you for reaching out to Hardwork Yardwork.</p>
+									</header>
+									
+									<div class="box" style="background: rgba(0,0,0,0.02); border-left: 4px solid #2e7d32; padding: 2em; margin-bottom: 2em;">
+										<p>We have successfully received your quote request details. If you provided an address, we will begin looking over your property details immediately.</p>
+										<p>Expect a phone call or email response from us shortly to discuss your project estimation!</p>
+									</div>
+
+									<ul class="actions">
+										<li><a href="index.html" class="button primary">Return to Home Page</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Hardwork Yardwork WPG</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
